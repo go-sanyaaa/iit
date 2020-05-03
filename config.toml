@@ -1,4 +1,3 @@
 baseURL = "http://iit.dev.sanyaaa.ru/"
 languageCode = "ru-RU"
 title = "Институт инженерных технологий"
-theme = "hugo-lamp"
